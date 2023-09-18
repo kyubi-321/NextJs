@@ -1,0 +1,17 @@
+{
+  "name": "taiprac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3"
+  },
+  "scripts":{
+    "start": "vite"
+  },
+  "dependencies": {
+    "vite": "^4.4.9"
+  }
+}
